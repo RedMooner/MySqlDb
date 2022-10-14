@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Query.cs" />
     <Compile Include="SqlConnetion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

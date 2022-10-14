@@ -1,0 +1,10 @@
+C:\Users\student-a209\Desktop\MySqlDb\MySqlDb\MySqlDb\bin\Release\MySqlDb.dll
+C:\Users\student-a209\Desktop\MySqlDb\MySqlDb\MySqlDb\bin\Release\MySqlDb.pdb
+C:\Users\student-a209\Desktop\MySqlDb\MySqlDb\MySqlDb\bin\Release\MySql.Data.dll
+C:\Users\student-a209\Desktop\MySqlDb\MySqlDb\MySqlDb\bin\Release\Google.Protobuf.dll
+C:\Users\student-a209\Desktop\MySqlDb\MySqlDb\MySqlDb\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\student-a209\Desktop\MySqlDb\MySqlDb\MySqlDb\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\student-a209\Desktop\MySqlDb\MySqlDb\MySqlDb\bin\Release\Renci.SshNet.dll
+C:\Users\student-a209\Desktop\MySqlDb\MySqlDb\MySqlDb\obj\Release\MySqlDb.csproj.CopyComplete
+C:\Users\student-a209\Desktop\MySqlDb\MySqlDb\MySqlDb\obj\Release\MySqlDb.dll
+C:\Users\student-a209\Desktop\MySqlDb\MySqlDb\MySqlDb\obj\Release\MySqlDb.pdb
